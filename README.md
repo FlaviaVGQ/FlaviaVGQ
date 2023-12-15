@@ -3,8 +3,8 @@
 ##
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FlaviaVGQ&show_icons=true&theme=dracula#gh-dark-mode-only"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaVGQ&layout=compact&theme=dracula&"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=FlaviaVGQ&show_icons=true&theme=dracula#gh-dark-mode-only"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaVGQ&layout=compact&theme=dracula&"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
 
 <div> 
   <a href = "mailto:flavia.vgq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/fl%C3%A1via-queiroz-650803260/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
                
 
