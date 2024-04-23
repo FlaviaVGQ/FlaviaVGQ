@@ -16,7 +16,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/angularjs/original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</div>                 
+</div>  
+
 ## 
 
 <div> 
