@@ -1,6 +1,6 @@
 #  👩🏻‍💻 Flávia Queiroz
 
-**`Desenvolvedora`**
+**`Desenvolvedora | Estudante de Ciência da Computação `**
 
 Olá! Sou estudante de Ciência da Computação na UEPB. Estou sempre em busca de aprender coisas novas e encarar desafios que contribuam para meu crescimento profissional.
 
