@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Olá! Atualmente sou estudante de Ciência da Computação na UEPB, com foco constante no aprendizado contínuo e na busca por novas experiências que me desafiem e contribuam para meu crescimento profissional.
+Olá! Sou estudante de Ciência da Computação na UEPB. Estou sempre em busca de aprender coisas novas e encarar desafios que contribuam para meu crescimento profissional.
 
 ---
 
